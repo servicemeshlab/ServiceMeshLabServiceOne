@@ -1,0 +1,7 @@
+<servers>
+    <server>
+        <id>docker-repo.example.com:8080</id>
+        <username>cdallosb</username>
+        <password>org0399*</password>
+    </server>
+</servers>
